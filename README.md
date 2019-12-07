@@ -62,6 +62,7 @@ where XXX.jpg is an image you want to classify
 
 ## Setup
 To run this project, use a Text Editor such as Sumblime Text to open the files:
+* webCrawler.py to bulfd your data set
 * label_imageGUI.py 
 
 make sure to take the retrained retrained_graph.pb and retrained_labels.txt files
@@ -72,9 +73,11 @@ Then use the Anaconda Prompt to run the files in Python 3.
 ## Sources
 EN.540.635 - Software Carpentry by Henry C. Herbol
 * https://www.thecomputationalist.com/Weekly_Challenges/
-Syed Sadat Nazrul 
+
+Syed Sadat Nazrul - PyRevolution
 * https://github.com/snazrul1/PyRevolution
-Googlecodelabs
+
+Googlecodelabs - Tensorflow-for-poets-2
 * https://github.com/tensorflow/tensorflow
 
 ## File List
@@ -84,7 +87,7 @@ Project contains the following files in the repository:
 * retrained_graph.pb and retrained_labels.txt - Trained on all 151 Pokemon
 * retrained_graph2.pb and retrained_labels2.txt files - Trained on only 16 Pokemon
 
-Citations:
 
 
-Author Tyler Summers
+Author 
+Tyler Summers
